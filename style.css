@@ -4,13 +4,13 @@ body{
 .header{
     margin-bottom: 180px;
 }
-.navbar{
+/* .navbar{
     position: fixed;
     top: 0;
     left: 0;
     width: 100%;
-    z-index: 99999;
-}
+    z-index: 99;
+} */
 
 
 
@@ -94,3 +94,16 @@ body{
     color: white;
 }
 
+/* section{
+    position: relative;
+    margin-bottom: 80px;
+} */
+
+.bottone{
+    margin: 10px;
+} 
+
+#frase{
+    color: white;
+    
+}
